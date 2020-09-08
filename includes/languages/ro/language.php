@@ -44,7 +44,7 @@ $lang['module_titles_txt_6'] = 'Schimbă Parola';
 $lang['module_titles_txt_7'] = 'Votează pentru Credite';
 $lang['module_titles_txt_8'] = 'Descărcări';
 $lang['module_titles_txt_9'] ='Termeni și condiții';
-$lang['module_titles_txt_10'] = 'TOP Clasamente';
+$lang['module_titles_txt_10'] = 'Clasamente';
 $lang['module_titles_txt_11'] = 'Donează pentru Credite';
 $lang['module_titles_txt_12'] = 'Resetează Personajul';
 $lang['module_titles_txt_13'] = 'Resetează PK';
@@ -216,7 +216,7 @@ $lang['error_102'] = 'Configurația pentru credite nu a fost setată (sistemul d
 $lang['register_txt_1'] = 'Utilizator:';
 $lang['register_txt_2'] = 'Parolă:';
 $lang['register_txt_3'] = 'Confirmă Parolă:';
-$lang['register_txt_4'] = 'Adresă Email:';
+$lang['register_txt_4'] = ':';
 $lang['register_txt_5'] = 'Create Account';
 $lang['register_txt_6'] = 'Din 4 până la 10 caractere alfanumerice';
 $lang['register_txt_7'] = 'Din 4 până la 32 caractere';
@@ -254,7 +254,7 @@ $lang['vfc_txt_2'] = 'Recompensă Credite';
 $lang['vfc_txt_3'] = 'Votează Acum!';
  
 # forgot password
-$lang['forgotpass_txt_1'] = 'AdresăEmail:';
+$lang['forgotpass_txt_1'] = 'Adresă Email:';
 $lang['forgotpass_txt_2'] = 'Trimite recuperare email';
  
 # downloads
@@ -276,12 +276,12 @@ $lang['news_txt_3'] = 'Citește mai mult &rsaquo;';
 $lang['rankings_txt_1'] = 'Top Niveluri';
 $lang['rankings_txt_2'] = 'Top Reseturi';
 $lang['rankings_txt_3'] = 'Top Ucigași';
-$lang['rankings_txt_4'] = 'Top Breasle';
-$lang['rankings_txt_5'] = 'Top Reseturi Grand';
+$lang['rankings_txt_4'] = 'Top Bresle';
+$lang['rankings_txt_5'] = 'Top Grand Reseturi';
 $lang['rankings_txt_6'] = 'Top Activitate';
 $lang['rankings_txt_7'] = 'Top Voturi';
-$lang['rankings_txt_8'] = 'Topul Gens';
-$lang['rankings_txt_9'] = 'Topul PVP Last Stand';
+$lang['rankings_txt_8'] = 'Top Gens';
+$lang['rankings_txt_9'] = 'Top PVP Last Stand';
 $lang['rankings_txt_10'] = 'Personaj';
 $lang['rankings_txt_11'] = 'Clasă';
 $lang['rankings_txt_12'] = 'Nivel';
@@ -294,9 +294,9 @@ $lang['rankings_txt_18'] = 'Conducător Breaslă';
 $lang['rankings_txt_19'] = 'Scor';
 $lang['rankings_txt_20'] = 'Actualizat ultima dată @';
 $lang['rankings_txt_21'] = 'Reseturi Grand';
-$lang['rankings_txt_22'] = 'Topul Master Level';
+$lang['rankings_txt_22'] = 'Top Master Level';
 $lang['rankings_txt_23'] = 'Master Level';
-$lang['rankings_txt_24'] = 'Topul PvP Last Stand';
+$lang['rankings_txt_24'] = 'Top PvP Last Stand';
 $lang['rankings_txt_25'] = 'Triumfuri';
 $lang['rankings_txt_26'] = 'Gens Duprian';
 $lang['rankings_txt_27'] = 'Gens Vanert';
@@ -378,12 +378,12 @@ $lang['addstats_txt_9'] = 'Personajul tău trebuie să aibă măcar %s zen pentr
 # castle siege banner
 $lang['csbanner_txt_1'] = 'Deținătorul Castelului';
 $lang['csbanner_txt_2'] = 'Bătălia începe în';
-$lang['csbanner_txt_3'] = 'Conducătorul Breaslei ';
+$lang['csbanner_txt_3'] = 'Conducătorul Breslei ';
  
 # profiles
-$lang['profiles_txt_1'] = 'Profilul Breaslei';
+$lang['profiles_txt_1'] = 'Profilul Breslei';
 $lang['profiles_txt_2'] = 'Profilul Jucătorului';
-$lang['profiles_txt_3'] = 'Conducătorul Breaslei:';
+$lang['profiles_txt_3'] = 'Conducătorul Breslei:';
 $lang['profiles_txt_4'] = 'Scor:';
 $lang['profiles_txt_5'] = 'Membri:';
 $lang['profiles_txt_6'] = 'Membri';
@@ -410,7 +410,7 @@ $lang['changemail_txt_2'] = 'Schimbă';
 $lang['sidebar_srvinfo_txt_1'] = 'Informații Server';
 $lang['sidebar_srvinfo_txt_2'] = 'Total Conturi';
 $lang['sidebar_srvinfo_txt_3'] = 'Total Personaje';
-$lang['sidebar_srvinfo_txt_4'] = 'Total Breasle';
+$lang['sidebar_srvinfo_txt_4'] = 'Total Bresle';
 $lang['sidebar_srvinfo_txt_5'] = 'Utilizatori Activi';
  
 # castle siege
@@ -419,7 +419,7 @@ $lang['castlesiege_txt_3'] = 'Zen:';
 $lang['castlesiege_txt_4'] = 'Taxă Chaos:';
 $lang['castlesiege_txt_5'] = 'Taxă Store:';
 $lang['castlesiege_txt_6'] = 'Taxă Hunt Zone:';
-$lang['castlesiege_txt_7'] = 'Breasle Înregistrate';
+$lang['castlesiege_txt_7'] = 'Bresle Înregistrate';
  
 # buy zen
 $lang['buyzen_txt_1'] = 'Cumpără Zen';
@@ -430,6 +430,6 @@ $lang['buyzen_txt_5'] = 'Cumpără';
 $lang['buyzen_txt_6'] = 'Credit(e)';
  
 # contact us
-$lang['contactus_txt_1'] = 'Adresă Email';
+$lang['contactus_txt_1'] = 'Email';
 $lang['contactus_txt_2'] = 'Mesaj';
 $lang['contactus_txt_3'] = 'Trimite';
